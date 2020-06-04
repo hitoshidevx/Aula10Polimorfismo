@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\bin\Debug\netcoreapp3.1\Atividade10Polimorfismo.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Atividade10Polimorfismo\obj\Debug\netcoreapp3.1\Atividade10Polimorfismo.genruntimeconfig.cache
